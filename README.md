@@ -6,7 +6,7 @@ text-annotation using fabric.js
 # unsolved questions
 1:what does '\n\' mean in js?
 
-step 1:-----------------------done(1 day)
+step 1:(1 day) 
 use fabric.js to display a series of text and listen the mouseup event to catch selected text
 
 step 2:(1 day)
